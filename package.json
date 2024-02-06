@@ -1,5 +1,5 @@
 {
-  "name": "fikse-det-selv",
+  "name": "docker-express-ts-template",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
